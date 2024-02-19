@@ -1,6 +1,6 @@
 Bonjour Madame, Monsieur,
 
-J'apprends actuellement les commandes Git.
+J'apprends actuellement les commandes Git à l'ENI.
 
 Cordialement,
 M. Touchard
